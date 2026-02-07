@@ -1,3 +1,3 @@
-hello there! Drj16
+HELLO THERE! Drj16
 
 random text for merge conflict.
